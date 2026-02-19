@@ -1,6 +1,6 @@
 # Hey, I'm Erik 👋
 
-I build AI-powered apps and tools, mostly through vibe coding with **Claude Code**, **Codex**, and **OpenClaw**. I like shipping fast — deploying to **Vercel** and **Cloudflare** — and tinkering with my homelab infrastructure on the side.
+I continually learning, building, and experimenting with AI-powered apps and tools, mostly through vibe coding with **Claude Code**, **Codex**, and **OpenClaw**. I like shipping fast — deploying to **Vercel** and **Cloudflare** — and tinkering with my homelab infrastructure on the side.  I recently got into 3D printing with a Bambu Lab P1S my daughter got for Christmas.  All updates on this profile are my own, not part of any other company I work with.
 
 ---
 
