@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Erik 👋
 
-<!--
-**erikankrom/erikankrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered apps and tools, mostly through vibe coding with **Claude Code**, **Codex**, and **OpenClaw**. I like shipping fast — deploying to **Vercel** and **Cloudflare** — and tinkering with my homelab infrastructure on the side.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### ⚽ Heartland Soccer Calendar
+A tool for soccer parents to create a single, consolidated **webcal calendar subscription** for any team in the Heartland Soccer Association. No more juggling multiple schedules — pick your team, subscribe, and every game shows up in your calendar automatically.
+
+🔗 [heartland.ankrom.ai](https://heartland.ankrom.ai)
+
+---
+
+## What I'm Up To
+
+- Exploring what's possible when you let AI do most of the coding
+- Shipping small, useful apps that solve real problems
+
+---
+
+*Built with a lot of AI and caffeine.*
